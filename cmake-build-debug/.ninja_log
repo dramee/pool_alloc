@@ -1,0 +1,9 @@
+# ninja log v5
+1	144	6938554010548244	CMakeFiles/pool_alloc.dir/main.c.obj	45db571754bb4815
+144	282	6938554011922520	pool_alloc.exe	3600b998cd0fcb2c
+2	68	6938554424392274	CMakeFiles/pool_alloc.dir/main.c.obj	45db571754bb4815
+68	150	6938554425192264	pool_alloc.exe	3600b998cd0fcb2c
+1	71	6938554540458203	CMakeFiles/pool_alloc.dir/main.c.obj	45db571754bb4815
+71	154	6938554541268205	pool_alloc.exe	3600b998cd0fcb2c
+1	69	6938557288681205	CMakeFiles/pool_alloc.dir/main.c.obj	45db571754bb4815
+69	149	6938557289471242	pool_alloc.exe	3600b998cd0fcb2c
