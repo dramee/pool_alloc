@@ -3,4 +3,4 @@ project(pool_alloc C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(pool_alloc main.c)
+add_executable(pool_alloc pool_alloc.c)
